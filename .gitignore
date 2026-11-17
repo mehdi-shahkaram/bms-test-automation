@@ -1,0 +1,10 @@
+# Python environment and caches
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Generated test reports
+report.html
+
+# macOS system files
+.DS_Store
